@@ -1,21 +1,66 @@
 body
 {
+<<<<<<< HEAD
     color: plum;
     text-align: center;
-    font-family: "Courier";
+    font-family: "Arial";
     margin: 0;
     padding: 0;
 }
 #container
 {
-    with: 70px;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #DDD;
+    with: 80px;
+    padding: 12em;
+    text-align: center;
+    border: 1px solid #333;
     margin: 0 auto;
+=======
+    background: #333;
+    color: #333;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 5;
+    padding: 10px;
+}
+
+#cabecera
+{
+    background: pink;
+    box-shadow: 30px 2px 80px 0px rgba(0,0,0,0,0.5);
+    color: #333;
+    font-weight: bold;
+    text-align-last: left;
+    margin: 10px;
+    padding: 0.5em;
+   
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+#container
+{
+    width: 60%;
+    padding: 20;
+    text-align: center;
+    border: 2px solid gray;
+>>>>>>> cabecera
+    margin: 10px;
 }
 
 #container h1
 {
     font-size: 20px;
+<<<<<<< HEAD
+=======
+}
+
+#post
+{
+    padding: 1em;
+>>>>>>> cabecera
 }
