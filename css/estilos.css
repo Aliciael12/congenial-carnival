@@ -1,7 +1,6 @@
 body
 {
-<<<<<<< HEAD
-    color: plum;
+    color: #333;
     text-align: center;
     font-family: "Arial";
     margin: 0;
@@ -14,14 +13,7 @@ body
     text-align: center;
     border: 1px solid #333;
     margin: 0 auto;
-=======
-    background: #333;
-    color: #333;
-    text-align: center;
-    font-family: "Arial";
-    font-size: 16px;
-    margin: 5;
-    padding: 10px;
+
 }
 
 #cabecera
@@ -45,7 +37,7 @@ body
 #container
 {
     width: 60%;
-    padding: 20;
+    padding: 0;
     text-align: center;
     border: 2px solid gray;
 >>>>>>> cabecera
@@ -55,8 +47,7 @@ body
 #container h1
 {
     font-size: 20px;
-<<<<<<< HEAD
-=======
+
 }
 
 #post
