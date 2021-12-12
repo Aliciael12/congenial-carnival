@@ -1,22 +1,47 @@
 body
 {
-    color: #333;
+    background: #333;
+    color: pink;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
-    margin: 0;
-    padding: 0;
+    margin: 5;
+    padding: 10px;
+}
+
+#cabecera
+{
+    background: pink;
+    box-shadow: 30px 2px 80px 0px rgba(0,0,0,0,0.5);
+    color: #333;
+    font-weight: bold;
+    text-align-last: left;
+    margin: 10px;
+    padding: 0.5em;
+   
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 #container
 {
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid gray;
+    width: 90%;
+    padding: 5;
+    text-align: center;
+    border: 2px solid gray;
     margin: 0 auto;
 }
 
 #container h1
 {
     font-size: 20px;
+}
+
+#post
+{
+    padding: 1em;
 }
