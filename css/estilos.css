@@ -4,7 +4,7 @@ body
     color: #333;
     text-align: center;
     font-family: "Arial";
-    font-size: 16px;
+    font-size: 18px;
     margin: 0;
     padding: 0;
 }
@@ -14,6 +14,8 @@ body
     background: #fca3f4;
     box-shadow: 0px 2px 20px 0px rgba(146, 63, 125, 0.5);
     color: white;
+    font-size: 20px;
+    text-align: center;
     font-weight: bold;
     margin: 0px;
     padding: 0.5em;
@@ -22,18 +24,18 @@ body
 
 #cabecera #logo
 {
-    width: 20px;
+    width: 50px;
     vertical-align: middle;
 }
 
-}
 
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
+
 #container
 {
     width: 70%;
