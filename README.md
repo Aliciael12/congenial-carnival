@@ -8,5 +8,6 @@ Un blog increíble para el curso de git y github de platzi.
 - El flujo de trabajo de github
 - El verdadero amor por las buenas practicas
 - Creado por Alicia
+- Nunca pares de aprender
 
 Esto es solo un ejemplo de lo que se puede hacer en ReadMe, interesante no!?
